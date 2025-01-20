@@ -91,9 +91,4 @@ class _ChatGPTPageState extends State<ChatGPTPage> {
   }
 }
 
-void main() {
-  runApp(MaterialApp(
-    theme: ThemeData(primarySwatch: Colors.purple),
-    home: ChatGPTPage(),
-  ));
-}
+
